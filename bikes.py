@@ -1,4 +1,4 @@
-bicicletas = ['trek' , 'cannondale' , 'redline' , 'specialized']
+bicicletas = ['trek' , 'cannondale' , 'redline' , 'specialized', 'audax']
 
 message = "Minha primeira bicicleta foi uma " + bicicletas[2].title() + "."
 print(message)
