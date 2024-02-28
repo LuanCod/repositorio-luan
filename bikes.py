@@ -7,7 +7,7 @@ print(message)
 times = ['real madrid' , 'barcelona' , 'arsenal' , 'liverpool' , 'chelsea' , 'manchester city']
 print(times[3].title())
 
-times.append(['manchester united' , 'milan' , 'inter' , 'roma' , 'udinese'])
+times.append(['manchester united' , 'milan' , 'inter' , 'roma' , 'udinese', 'atletico de madrid' , 'borussia dortmund'])
 
 print(times)
 
