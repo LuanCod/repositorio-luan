@@ -4,7 +4,7 @@ message = "Minha primeira bicicleta foi uma " + bicicletas[2].title() + "."
 print(message)
 
 
-times = ['real madrid' , 'barcelona' , 'arsenal' , 'liverpool' , 'chelsea' , 'manchester city']
+times = ['real madrid' , 'barcelona' , 'arsenal' , 'liverpool' , 'chelsea' , 'manchester city' , 'aston villa']
 print(times[3].title())
 
 times.append(['manchester united' , 'milan' , 'inter' , 'roma' , 'udinese', 'atletico de madrid' , 'borussia dortmund'])
