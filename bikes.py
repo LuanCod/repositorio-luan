@@ -1,4 +1,4 @@
-bicicletas = ['trek' , 'cannondale' , 'redline' , 'specialized', 'audax']
+bicicletas = ['trek' , 'cannondale' , 'redline' , 'specialized' , 'audax' , 'caloi']
 
 message = "Minha primeira bicicleta foi uma " + bicicletas[2].title() + "."
 print(message)
@@ -7,11 +7,11 @@ print(message)
 times = ['real madrid' , 'barcelona' , 'arsenal' , 'liverpool' , 'chelsea' , 'manchester city']
 print(times[3].title())
 
-times.append(['manchester united' , 'milan' , 'inter' , 'roma'])
+times.append(['manchester united' , 'milan' , 'inter' , 'roma' , 'udinese'])
 
 print(times)
 
-mensagem_time = "Raimundinho torce para o " + times[6][2].title() + "!"
+mensagem_time = "João torce para o " + times[6][2].title() + "!"
 print(mensagem_time)
 
 # times[6] = 'corínthians'
